@@ -82,7 +82,7 @@ header a.active {
 .container{
   margin: 0px;
   width: 50%;
-  width: 202vmin;
+  width: 199vmin;
   overflow: hidden;
   box-shadow: 10px 25px 30px rgba(0,0,0,0.3);
 }
